@@ -4,7 +4,7 @@
 
 **Локальные панели для умных устройств · self-hosted · автоматизация**
 
-[![MidiPult](https://img.shields.io/badge/MidiPult-v0.1.1-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoBiN19666/midipult)
+[![MidiPult](https://img.shields.io/badge/MidiPult-project-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoBiN19666/midipult)
 [![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Linux](https://img.shields.io/badge/Linux-embedded-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Vanilla JS](https://img.shields.io/badge/JavaScript-vanilla-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
