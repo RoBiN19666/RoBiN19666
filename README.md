@@ -1,0 +1,58 @@
+<div align="center">
+
+# RoBiN19666
+
+**Локальные панели для умных устройств · self-hosted · автоматизация**
+
+[![MidiPult](https://img.shields.io/badge/MidiPult-v0.1.1-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoBiN19666/midipult)
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Linux](https://img.shields.io/badge/Linux-embedded-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Vanilla JS](https://img.shields.io/badge/JavaScript-vanilla-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+
+</div>
+
+---
+
+## Чем занимаюсь
+
+- локальные веб-панели для рутованных устройств;
+- Python CGI и `lighttpd` вместо тяжёлого стека;
+- интеграции с Luna API, Glagol и IPC;
+- интерфейсы без React, Node и внешних CDN;
+- self-hosted решения, которые работают в локальной сети.
+
+## Избранное
+
+<a href="https://github.com/RoBiN19666/midipult">
+  <img src="https://raw.githubusercontent.com/RoBiN19666/midipult/main/docs/img/display.png" alt="MidiPult — панель управления Станцией Миди" width="100%">
+</a>
+
+### [MidiPult](https://github.com/RoBiN19666/midipult)
+
+Локальная веб-панель для рутованной **Яндекс Станции Миди**: дисплей,
+LED-кольцо, плеер, радио, голосовые команды, нейросеть, VPN и сценарии.
+
+- лёгкий интерфейс на чистом HTML/CSS/JS;
+- Python CGI + `lighttpd` на самой колонке;
+- установщик с проверкой зависимостей и автозапуском;
+- безопасное удаление с бэкапом;
+- MIT License.
+
+[![Release](https://img.shields.io/github/v/release/RoBiN19666/midipult?style=flat-square&label=release)](https://github.com/RoBiN19666/midipult/releases)
+[![License](https://img.shields.io/github/license/RoBiN19666/midipult?style=flat-square&label=license)](https://github.com/RoBiN19666/midipult/blob/main/LICENSE)
+
+[Репозиторий](https://github.com/RoBiN19666/midipult) · [Релизы](https://github.com/RoBiN19666/midipult/releases) · [Документация](https://github.com/RoBiN19666/midipult#readme)
+
+## Стек
+
+`Python` · `JavaScript` · `HTML/CSS` · `lighttpd` · `Linux` · `Entware` · `Git`
+
+## Связаться
+
+Вопросы и баги по проектам — через **Issues** в соответствующем репозитории.
+
+---
+
+<div align="center">
+  <sub>Сделано на своём устройстве, для своего устройства.</sub>
+</div>
