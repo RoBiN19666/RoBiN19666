@@ -40,6 +40,20 @@ LED-кольцо, плеер, радио, голосовые команды, н�
 
 [Репозиторий](https://github.com/RoBiN19666/midipult) · [Релизы](https://github.com/RoBiN19666/midipult/releases) · [Документация](https://github.com/RoBiN19666/midipult#readme)
 
+<p align="center">
+  <a href="https://github.com/RoBiN19666/olymp-clock">
+    <img src="https://raw.githubusercontent.com/RoBiN19666/olymp-clock/main/assets/logo-card.png" alt="OlympClock — часы и таймер для олимпиад" width="420">
+  </a>
+</p>
+
+**OlympClock** — часы, расписание и таймер для олимпиад: один HTML-файл, работает без интернета.
+Есть APK для досок, которые вообще не открывают `.html`, встроенный плеер для аудирования,
+часовые пояса и проверка обновлений прямо из приложения.
+
+[Репозиторий](https://github.com/RoBiN19666/olymp-clock) ·
+[Открыть в браузере](https://robin19666.github.io/olymp-clock/) ·
+[Скачать APK](https://github.com/RoBiN19666/olymp-clock/releases/latest)
+
 ## Стек
 
 `Python` · `JavaScript` · `HTML/CSS` · `lighttpd` · `Linux` · `Entware` · `Git`
