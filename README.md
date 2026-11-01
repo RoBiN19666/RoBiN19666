@@ -19,11 +19,11 @@
 
 ## Избранное
 
-<a href="https://github.com/RoBiN19666/midipult">
-  <img src="https://raw.githubusercontent.com/RoBiN19666/midipult/main/docs/img/logo.png" alt="MidiPult — панель Яндекс Станции Миди" width="480">
-</a>
-
-### [MidiPult](https://github.com/RoBiN19666/midipult)
+<p align="center">
+  <a href="https://github.com/RoBiN19666/midipult">
+    <img src="https://raw.githubusercontent.com/RoBiN19666/midipult/main/docs/img/logo.png?v=2" alt="MidiPult — локальная панель Яндекс Станции Миди" width="520">
+  </a>
+</p>
 
 Локальная веб-панель для рутованной **Яндекс Станции Миди**: дисплей,
 LED-кольцо, плеер, радио, голосовые команды, нейросеть, VPN, сценарии,
