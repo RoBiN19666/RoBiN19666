@@ -46,7 +46,10 @@ LED-кольцо, плеер, радио, голосовые команды, н�
 
 <p align="center">
   <a href="https://github.com/RoBiN19666/olymp-clock">
-    <img src="https://raw.githubusercontent.com/RoBiN19666/olymp-clock/main/assets/logo-card.png" alt="OlympClock — часы и таймер для олимпиад" width="420">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RoBiN19666/olymp-clock/main/assets/logo-dark.png">
+      <img src="https://raw.githubusercontent.com/RoBiN19666/olymp-clock/main/assets/logo-light.png" alt="OlympClock — часы и таймер для олимпиад" width="420">
+    </picture>
   </a>
 </p>
 
