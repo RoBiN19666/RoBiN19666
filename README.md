@@ -20,13 +20,14 @@
 ## Избранное
 
 <a href="https://github.com/RoBiN19666/midipult">
-  <img src="https://raw.githubusercontent.com/RoBiN19666/midipult/main/docs/img/display.png" alt="MidiPult — панель управления Станцией Миди" width="100%">
+  <img src="https://raw.githubusercontent.com/RoBiN19666/midipult/main/docs/img/logo.png" alt="MidiPult — панель Яндекс Станции Миди" width="480">
 </a>
 
 ### [MidiPult](https://github.com/RoBiN19666/midipult)
 
 Локальная веб-панель для рутованной **Яндекс Станции Миди**: дисплей,
-LED-кольцо, плеер, радио, голосовые команды, нейросеть, VPN и сценарии.
+LED-кольцо, плеер, радио, голосовые команды, нейросеть, VPN, сценарии,
+свои звуки и IPv6.
 
 - лёгкий интерфейс на чистом HTML/CSS/JS;
 - Python CGI + `lighttpd` на самой колонке;
