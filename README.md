@@ -19,6 +19,8 @@
 
 ## Избранное
 
+### MidiPult
+
 <p align="center">
   <a href="https://github.com/RoBiN19666/midipult">
     <img src="https://raw.githubusercontent.com/RoBiN19666/midipult/main/docs/img/logo.png?v=5" alt="MidiPult — локальная панель Яндекс Станции Миди" width="520">
@@ -39,6 +41,8 @@ LED-кольцо, плеер, радио, голосовые команды, н�
 [![License](https://img.shields.io/github/license/RoBiN19666/midipult?style=flat-square&label=license)](https://github.com/RoBiN19666/midipult/blob/main/LICENSE)
 
 [Репозиторий](https://github.com/RoBiN19666/midipult) · [Релизы](https://github.com/RoBiN19666/midipult/releases) · [Документация](https://github.com/RoBiN19666/midipult#readme)
+
+### OlympClock
 
 <p align="center">
   <a href="https://github.com/RoBiN19666/olymp-clock">
