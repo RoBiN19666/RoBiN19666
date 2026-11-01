@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/RoBiN19666/midipult">
-    <img src="https://raw.githubusercontent.com/RoBiN19666/midipult/main/docs/img/logo.png?v=3" alt="MidiPult — локальная панель Яндекс Станции Миди" width="520">
+    <img src="https://raw.githubusercontent.com/RoBiN19666/midipult/main/docs/img/logo.png?v=4" alt="MidiPult — локальная панель Яндекс Станции Миди" width="520">
   </a>
 </p>
 
