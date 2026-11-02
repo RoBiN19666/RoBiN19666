@@ -93,7 +93,7 @@ LED-кольцо, плеер, радио, голосовые команды, н�
 [![Release](https://img.shields.io/github/v/release/RoBiN19666/school-journal?style=flat-square&label=release)](https://github.com/RoBiN19666/school-journal/releases)
 [![License](https://img.shields.io/github/license/RoBiN19666/school-journal?style=flat-square&label=license)](https://github.com/RoBiN19666/school-journal/blob/main/LICENSE)
 
-[Репозиторий](https://github.com/RoBiN19666/school-journal) · [Документация](https://github.com/RoBiN19666/school-journal/blob/main/docs/admin-guide.md)
+[Репозиторий](https://github.com/RoBiN19666/school-journal) · [Документация](https://github.com/RoBiN19666/school-journal/blob/main/docs/admin-guide.md) · [Релизы](https://github.com/RoBiN19666/school-journal/releases)
 ## Стек
 
 `Python` · `JavaScript` · `HTML/CSS` · `lighttpd` · `Linux` · `Entware` · `Git`
