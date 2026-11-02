@@ -65,7 +65,10 @@ LED-кольцо, плеер, радио, голосовые команды, н�
 
 <p align="center">
   <a href="https://github.com/RoBiN19666/school-journal">
-    <img src="https://raw.githubusercontent.com/RoBiN19666/school-journal/main/docs/screenshots/dashboard.png" alt="School Journal — электронный журнал посещаемости" width="520">
+      <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RoBiN19666/school-journal/main/docs/branding/logo-wordmark-light.png">
+    <img src="https://raw.githubusercontent.com/RoBiN19666/school-journal/main/docs/branding/logo-wordmark-dark.png" alt="School Journal — электронный журнал посещаемости" width="420">
+  </picture>
   </a>
 </p>
 
