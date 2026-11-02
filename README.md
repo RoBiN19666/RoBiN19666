@@ -63,6 +63,9 @@ LED-кольцо, плеер, радио, голосовые команды, н�
 Есть APK для досок, которые вообще не открывают `.html`, встроенный плеер для аудирования,
 часовые пояса и проверка обновлений прямо из приложения.
 
+[![Release](https://img.shields.io/github/v/release/RoBiN19666/olymp-clock?style=flat-square&label=release)](https://github.com/RoBiN19666/olymp-clock/releases)
+[![License](https://img.shields.io/github/license/RoBiN19666/olymp-clock?style=flat-square&label=license)](https://github.com/RoBiN19666/olymp-clock/blob/main/LICENSE)
+
 [Репозиторий](https://github.com/RoBiN19666/olymp-clock) ·
 [Открыть в браузере](https://robin19666.github.io/olymp-clock/) ·
 [Скачать APK](https://github.com/RoBiN19666/olymp-clock/releases/latest)
