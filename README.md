@@ -2,12 +2,20 @@
 
 # RoBiN19666
 
-**Локальные панели для умных устройств · self-hosted · автоматизация**
+**Локальные панели для умных устройств · инструменты для школы · self-hosted без облака**
 
-[![MidiPult](https://img.shields.io/badge/MidiPult-project-6C5CE7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoBiN19666/midipult)
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Linux](https://img.shields.io/badge/Linux-embedded-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Vanilla JS](https://img.shields.io/badge/JavaScript-vanilla-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+Сисадмин по профессии, вайбкодер по вечерам: пишу то, чем потом пользуюсь каждый день.
+
+[![MidiPult — панель для Станции Миди](https://img.shields.io/badge/MidiPult-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D1%8C_%D0%B4%D0%BB%D1%8F_%D0%A1%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8_%D0%9C%D0%B8%D0%B4%D0%B8-6C5CE7?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/RoBiN19666/midipult)
+[![OlympClock — часы и таймер для олимпиад](https://img.shields.io/badge/OlympClock-%D1%87%D0%B0%D1%81%D1%8B_%D0%B8_%D1%82%D0%B0%D0%B9%D0%BC%D0%B5%D1%80_%D0%B4%D0%BB%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4-D97706?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/RoBiN19666/olymp-clock)
+[![School Journal — электронный журнал](https://img.shields.io/badge/School_Journal-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB-2563EB?style=for-the-badge&logo=django&logoColor=white)](https://github.com/RoBiN19666/school-journal)
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-5-092E20?style=flat-square&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-vanilla-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-embedded-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
@@ -15,7 +23,7 @@
 
 ## О себе
 
-Вайбкодинг для души. Делаю разные приколюхи по настроению.
+Вайбкодинг для души. Делаю разные приколюхи по настроению — и почти всегда те, которыми потом пользуюсь сам
 
 ## Избранное
 
