@@ -59,7 +59,7 @@ Android-оболочка панели MidiPult: автоматический п�
 - APK обновляется отдельно из GitHub Releases.
 
 [![Release](https://img.shields.io/github/v/release/RoBiN19666/midipult-android?style=flat-square&label=release)](https://github.com/RoBiN19666/midipult-android/releases)
-[![Android](https://img.shields.io/badge/Android-5.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/RoBiN19666/midipult-android)
+[![Android](https://img.shields.io/badge/Android-6.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/RoBiN19666/midipult-android)
 
 [Скачать APK](https://github.com/RoBiN19666/midipult-android/releases/latest)
 
