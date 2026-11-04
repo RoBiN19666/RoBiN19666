@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # RoBiN19666
 
@@ -24,7 +24,7 @@
 
 Сисадмин по профессии, вайбкодер по вечерам: делаю то, чем потом пользуюсь сам.
 
-## Избранное
+## Проекты
 
 ### MidiPult
 
@@ -47,15 +47,9 @@ LED-кольцо, плеер, радио, голосовые команды, н�
 [![Release](https://img.shields.io/github/v/release/RoBiN19666/midipult?style=flat-square&label=release)](https://github.com/RoBiN19666/midipult/releases)
 [![License](https://img.shields.io/github/license/RoBiN19666/midipult?style=flat-square&label=license)](https://github.com/RoBiN19666/midipult/blob/main/LICENSE)
 
-[Репозиторий](https://github.com/RoBiN19666/midipult) · [Релизы](https://github.com/RoBiN19666/midipult/releases) · [Документация](https://github.com/RoBiN19666/midipult#readme)
+[Документация](https://github.com/RoBiN19666/midipult#readme)
 
 ### MidiPult Android
-
-<p align="center">
-  <a href="https://github.com/RoBiN19666/midipult-android">
-    <img src="https://raw.githubusercontent.com/RoBiN19666/midipult-android/main/docs/img/logo.png" alt="MidiPult Android" width="360">
-  </a>
-</p>
 
 Android-оболочка панели MidiPult: автоматический поиск станций по UDP,
 несколько адресов, переименование, PIN и установка обновлений APK.
@@ -67,9 +61,8 @@ Android-оболочка панели MidiPult: автоматический п�
 [![Release](https://img.shields.io/github/v/release/RoBiN19666/midipult-android?style=flat-square&label=release)](https://github.com/RoBiN19666/midipult-android/releases)
 [![Android](https://img.shields.io/badge/Android-5.0%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://github.com/RoBiN19666/midipult-android)
 
-[Репозиторий приложения Android](https://github.com/RoBiN19666/midipult-android) ·
-[Скачать APK](https://github.com/RoBiN19666/midipult-android/releases/latest) ·
-[Репозиторий панели](https://github.com/RoBiN19666/midipult)
+[Скачать APK](https://github.com/RoBiN19666/midipult-android/releases/latest)
+
 ### OlympClock
 
 <p align="center">
@@ -88,18 +81,16 @@ Android-оболочка панели MidiPult: автоматический п�
 [![Release](https://img.shields.io/github/v/release/RoBiN19666/olymp-clock?style=flat-square&label=release)](https://github.com/RoBiN19666/olymp-clock/releases)
 [![License](https://img.shields.io/github/license/RoBiN19666/olymp-clock?style=flat-square&label=license)](https://github.com/RoBiN19666/olymp-clock/blob/main/LICENSE)
 
-[Репозиторий](https://github.com/RoBiN19666/olymp-clock) ·
-[Открыть в браузере](https://robin19666.github.io/olymp-clock/) ·
-[Скачать APK](https://github.com/RoBiN19666/olymp-clock/releases/latest)
+[Открыть в браузере](https://robin19666.github.io/olymp-clock/)
 
 ### School Journal
 
 <p align="center">
   <a href="https://github.com/RoBiN19666/school-journal">
-      <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RoBiN19666/school-journal/main/docs/branding/logo-wordmark-light.png?v=2">
-    <img src="https://raw.githubusercontent.com/RoBiN19666/school-journal/main/docs/branding/logo-wordmark-dark.png" alt="School Journal — электронный журнал посещаемости" width="420">
-  </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RoBiN19666/school-journal/main/docs/branding/logo-wordmark-light.png?v=2">
+      <img src="https://raw.githubusercontent.com/RoBiN19666/school-journal/main/docs/branding/logo-wordmark-dark.png" alt="School Journal — электронный журнал посещаемости" width="420">
+    </picture>
   </a>
 </p>
 
@@ -115,10 +106,12 @@ Android-оболочка панели MidiPult: автоматический п�
 [![Release](https://img.shields.io/github/v/release/RoBiN19666/school-journal?style=flat-square&label=release)](https://github.com/RoBiN19666/school-journal/releases)
 [![License](https://img.shields.io/github/license/RoBiN19666/school-journal?style=flat-square&label=license)](https://github.com/RoBiN19666/school-journal/blob/main/LICENSE)
 
-[Репозиторий](https://github.com/RoBiN19666/school-journal) · [Документация](https://github.com/RoBiN19666/school-journal/blob/main/docs/admin-guide.md) · [Релизы](https://github.com/RoBiN19666/school-journal/releases)
+[Документация](https://github.com/RoBiN19666/school-journal/blob/main/docs/admin-guide.md)
+
 ## Связаться
 
-Вопросы и баги по проектам — через **Issues** в соответствующем репозитории.
+- **Telegram:** [@robin19666](https://t.me/robin19666) — вопросы, идеи, что угодно.
+- **Баги и фичи по проектам** — через Issues в соответствующем репозитории.
 
 ---
 
