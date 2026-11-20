@@ -106,6 +106,19 @@ Android-оболочка панели MidiPult: автоматический п�
 
 [Документация](https://github.com/RoBiN19666/school-journal/blob/main/docs/admin-guide.md)
 
+## Поддержать
+
+<div align="center">
+
+<a href="https://boosty.to/robin19666">
+  <img src="https://img.shields.io/badge/Boosty-%D0%94%D0%BE%D0%BD%D0%B0%D1%82_%D0%BD%D0%B0_%D1%85%D0%BB%D0%B5%D0%B1%D1%83%D1%88%D0%B5%D0%BA-FF6B00?style=for-the-badge" alt="Поддержать на Boosty">
+</a>
+
+**Донат на хлебушек и развитие проектов — от 100 ₽.**
+
+Спасибо за поддержку! Средства идут на тесты на железе и развитие проектов.
+
+</div>
 ## Связаться
 
 - **Telegram:** [@robin19666](https://t.me/robin19666) — вопросы, идеи, что угодно.
