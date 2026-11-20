@@ -117,6 +117,7 @@ Android-оболочка панели MidiPult: автоматический п�
 <a href="https://www.donationalerts.com/r/robin19666">
   <img src="https://img.shields.io/badge/DonationAlerts-%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%BE_%D0%BE%D1%82_100_%E2%82%BD-FF8A00?style=for-the-badge" alt="Разовый донат от 100 ₽">
 </a>
+
 **Boosty — подписка от 100 ₽/мес. DonationAlerts — разово от 100 ₽.**
 
 Спасибо за поддержку! Средства идут на тесты на железе и развитие проектов.
