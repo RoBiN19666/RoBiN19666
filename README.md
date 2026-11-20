@@ -114,7 +114,11 @@ Android-оболочка панели MidiPult: автоматический п�
   <img src="https://img.shields.io/badge/Boosty-%D0%94%D0%BE%D0%BD%D0%B0%D1%82_%D0%BD%D0%B0_%D1%85%D0%BB%D0%B5%D0%B1%D1%83%D1%88%D0%B5%D0%BA-FF6B00?style=for-the-badge" alt="Поддержать на Boosty">
 </a>
 
-**Донат на хлебушек и развитие проектов — от 100 ₽.**
+'<a href="https://www.donationalerts.com/r/robin19666">
+  <img src="https://img.shields.io/badge/DonationAlerts-%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%BE_%D0%BE%D1%82_100_%E2%82%BD-FF8A00?style=for-the-badge" alt="Разовый донат от 100 ₽">
+</a>
+'
+**Boosty — подписка от 100 ₽/мес. DonationAlerts — разово от 100 ₽.**
 
 Спасибо за поддержку! Средства идут на тесты на железе и развитие проектов.
 
