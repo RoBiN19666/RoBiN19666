@@ -5,8 +5,6 @@
 **Локальные панели для умных устройств · инструменты для школы · self-hosted без облака**
 
 [![MidiPult — панель для Станции Миди](https://img.shields.io/badge/MidiPult-%D0%BF%D0%B0%D0%BD%D0%B5%D0%BB%D1%8C_%D0%B4%D0%BB%D1%8F_%D0%A1%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D0%B8_%D0%9C%D0%B8%D0%B4%D0%B8-6C5CE7?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/RoBiN19666/midipult)
-[![MidiPult Android — APK](https://img.shields.io/badge/MidiPult_Android-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/RoBiN19666/midipult-android)
-[![MidiPult Windows — ПК](https://img.shields.io/badge/MidiPult_Windows-Windows_10%2F11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/RoBiN19666/midipult-windows)
 [![OlympClock — часы и таймер для олимпиад](https://img.shields.io/badge/OlympClock-%D1%87%D0%B0%D1%81%D1%8B_%D0%B8_%D1%82%D0%B0%D0%B9%D0%BC%D0%B5%D1%80_%D0%B4%D0%BB%D1%8F_%D0%BE%D0%BB%D0%B8%D0%BC%D0%BF%D0%B8%D0%B0%D0%B4-D97706?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/RoBiN19666/olymp-clock)
 [![School Journal — электронный журнал](https://img.shields.io/badge/School_Journal-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B6%D1%83%D1%80%D0%BD%D0%B0%D0%BB-2563EB?style=for-the-badge&logo=django&logoColor=white)](https://github.com/RoBiN19666/school-journal)
 
