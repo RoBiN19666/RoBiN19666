@@ -28,8 +28,8 @@
 ### Zapret Manager
 
 <p align="center">
-  <a href="https://github.com/RoBiN19666/ZapretManager-Windows">
-    <img src="https://raw.githubusercontent.com/RoBiN19666/ZapretManager-Windows/main/assets/logo-wide.png" alt="Zapret Manager — графический менеджер zapret" width="520">
+  <a href="https://github.com/RoBiN19666/ZapretManager-Desktop">
+    <img src="https://raw.githubusercontent.com/RoBiN19666/ZapretManager-Desktop/main/assets/logo-wide.png" alt="Zapret Manager — графический менеджер zapret" width="520">
   </a>
 </p>
 
