@@ -47,11 +47,11 @@
 - темы (авто/тёмная/светлая), DPI-макет, трей, автозапуск через Планировщик без запросов UAC;
 - TG WS Proxy без иконки в трее — на портативном Python, который менеджер скачивает сам.
 
-[![Version](https://img.shields.io/badge/version-1.2.6-FF8A1E?style=flat-square)](https://github.com/RoBiN19666/ZapretManager-Windows)
-[![License](https://img.shields.io/github/license/RoBiN19666/ZapretManager-Windows?style=flat-square&label=license)](https://github.com/RoBiN19666/ZapretManager-Windows/blob/main/LICENSE)
-[![Windows](https://img.shields.io/badge/Windows-10%2F11%20x64-0078D4?style=flat-square&logo=windows11&logoColor=white)](https://github.com/RoBiN19666/ZapretManager-Windows)
+[![Version](https://img.shields.io/badge/version-1.2.6-FF8A1E?style=flat-square)](https://github.com/RoBiN19666/ZapretManager-Desktop)
+[![License](https://img.shields.io/github/license/RoBiN19666/ZapretManager-Desktop?style=flat-square&label=license)](https://github.com/RoBiN19666/ZapretManager-Desktop/blob/main/LICENSE)
+[![Windows](https://img.shields.io/badge/Windows-10%2F11%20x64-0078D4?style=flat-square&logo=windows11&logoColor=white)](https://github.com/RoBiN19666/ZapretManager-Desktop)
 
-[Документация](https://github.com/RoBiN19666/ZapretManager-Windows#readme)
+[Документация](https://github.com/RoBiN19666/ZapretManager-Desktop#readme)
 
 ### MidiPult
 
