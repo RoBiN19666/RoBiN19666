@@ -25,6 +25,35 @@
 
 ## Проекты
 
+### Zapret Manager
+
+<p align="center">
+  <a href="https://github.com/RoBiN19666/ZapretManager-Windows">
+    <img src="https://raw.githubusercontent.com/RoBiN19666/ZapretManager-Windows/main/assets/app-icon.png" alt="Zapret Manager — графический менеджер zapret" width="120">
+  </a>
+</p>
+
+**Zapret Manager** — графическая оболочка для обхода DPI (zapret-discord-youtube)
+и прокси Telegram (TG WS Proxy): один exe, который сам находит установку, запускает
+стратегии, ведёт списки и следит за обновлениями. Python, Docker и права администратора
+на старте не нужны — программа сама запрашивает повышение прав.
+
+- запуск/остановка стратегий, служба Windows, игровой фильтр, IPSet, `hosts`;
+- списки с пометкой своих правок (переживают обновления) и массовой вставкой доменов;
+- **доктор сайта**: DNS → TCP → TLS → HTTP, вердикт «блокирует ТСПУ или нет» и добавление адресов в списки;
+- фоновый сторож: сам замечает заблокированные домены по журналу DNS и дописывает их в список;
+- тест стратегий с таблицей результатов и разбором официального отчёта;
+- автообновления zapret и TG WS Proxy, установка любой версии Flowseal, самообновление менеджера из релизов;
+- темы (авто/тёмная/светлая), DPI-макет, трей, автозапуск через Планировщик без запросов UAC;
+- TG WS Proxy без иконки в трее — на портативном Python, который менеджер скачивает сам;
+- MIT License.
+
+[![Version](https://img.shields.io/badge/version-1.2.6-FF8A1E?style=flat-square)](https://github.com/RoBiN19666/ZapretManager-Windows)
+[![License](https://img.shields.io/github/license/RoBiN19666/ZapretManager-Windows?style=flat-square&label=license)](https://github.com/RoBiN19666/ZapretManager-Windows/blob/main/LICENSE)
+[![Windows](https://img.shields.io/badge/Windows-10%2F11%20x64-0078D4?style=flat-square&logo=windows11&logoColor=white)](https://github.com/RoBiN19666/ZapretManager-Windows)
+
+[Документация](https://github.com/RoBiN19666/ZapretManager-Windows#readme)
+
 ### MidiPult
 
 <p align="center">
