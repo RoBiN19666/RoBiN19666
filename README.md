@@ -45,8 +45,7 @@
 - тест стратегий с таблицей результатов и разбором официального отчёта;
 - автообновления zapret и TG WS Proxy, установка любой версии Flowseal, самообновление менеджера из релизов;
 - темы (авто/тёмная/светлая), DPI-макет, трей, автозапуск через Планировщик без запросов UAC;
-- TG WS Proxy без иконки в трее — на портативном Python, который менеджер скачивает сам;
-- MIT License.
+- TG WS Proxy без иконки в трее — на портативном Python, который менеджер скачивает сам.
 
 [![Version](https://img.shields.io/badge/version-1.2.6-FF8A1E?style=flat-square)](https://github.com/RoBiN19666/ZapretManager-Windows)
 [![License](https://img.shields.io/github/license/RoBiN19666/ZapretManager-Windows?style=flat-square&label=license)](https://github.com/RoBiN19666/ZapretManager-Windows/blob/main/LICENSE)
@@ -69,8 +68,7 @@ LED-кольцо, плеер, радио, голосовые команды, н�
 - лёгкий интерфейс на чистом HTML/CSS/JS;
 - Python CGI + `lighttpd` на самой колонке;
 - установщик с проверкой зависимостей и автозапуском;
-- безопасное удаление с бэкапом;
-- MIT License.
+- безопасное удаление с бэкапом.
 
 [![Release](https://img.shields.io/github/v/release/RoBiN19666/midipult?style=flat-square&label=release)](https://github.com/RoBiN19666/midipult/releases)
 [![License](https://img.shields.io/github/license/RoBiN19666/midipult?style=flat-square&label=license)](https://github.com/RoBiN19666/midipult/blob/main/LICENSE)
@@ -139,8 +137,7 @@ Windows-оболочка панели MidiPult: автоматический п�
 
 - Django 5 + PostgreSQL 16, интерфейс на Tailwind без сборки Node.js;
 - установка одной командой в Docker, мастер первичной настройки;
-- полностью двуязычный интерфейс (русский и английский);
-- MIT License.
+- полностью двуязычный интерфейс (русский и английский).
 
 [![Release](https://img.shields.io/github/v/release/RoBiN19666/school-journal?style=flat-square&label=release)](https://github.com/RoBiN19666/school-journal/releases)
 [![License](https://img.shields.io/github/license/RoBiN19666/school-journal?style=flat-square&label=license)](https://github.com/RoBiN19666/school-journal/blob/main/LICENSE)
