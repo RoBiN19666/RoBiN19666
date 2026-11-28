@@ -53,6 +53,21 @@
 
 [Документация](https://github.com/RoBiN19666/ZapretManager-Desktop#readme)
 
+### Zapret Manager Android
+
+Android-версия того же менеджера — без root и без ПК:
+[ZapretManager-Android](https://github.com/RoBiN19666/ZapretManager-Android).
+
+- ускорение соединения через `VpnService`: byedpi + hev-socks5-tunnel, стратегии и их тест
+  на живом туннеле, глубокий автоподбор параметров;
+- локальный MTProto-прокси для Telegram (TG WS Proxy) в том же приложении;
+- свои конфигурации с именами, профили Wi-Fi и оператора с автопереключением;
+- диагностика, резервная копия и самообновление APK;
+- три APK под архитектуру: 6.3 МБ (arm64), 6.5 МБ (armv7), 10.9 МБ (universal).
+
+[Документация](https://github.com/RoBiN19666/ZapretManager-Android#readme) ·
+[Релизы](https://github.com/RoBiN19666/ZapretManager-Android/releases)
+
 ### MidiPult
 
 <p align="center">
